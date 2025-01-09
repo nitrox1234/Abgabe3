@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1736444898.98086 "c:/Users/benne/Documents/Vue Kurs/Git-2024-25/task/task1.tex" "task1.pdf" "task1" 1736444900.80338 0
-  "../diagram/classes_files.pdf" 1736444736 32846 abf4e3e8449352a948f55cc623b9e9f3 ""
-  "c:/Users/benne/Documents/Vue Kurs/Git-2024-25/task/task1.tex" 1736444894 4309 a66724bbc2059c723d5145a9665f6e1e ""
+["pdflatex"] 1736447978.80737 "c:/Users/benne/Documents/Vue Kurs/Git-2024-25/task/task1.tex" "task1.pdf" "task1" 1736447980.31067 0
+  "../diagram/classes_files.pdf" 1736447032 32846 abf4e3e8449352a948f55cc623b9e9f3 ""
+  "c:/Users/benne/Documents/Vue Kurs/Git-2024-25/task/task1.tex" 1736447974 4184 9d285dc881cd2a3d77d34e2919711fd2 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1735932445 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1735932445 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1735933312 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -94,9 +94,9 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1736012016 5531417 afafd3ba8f822fda36e3585e3807683b ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1735937119 3347702 d3abd7e8a81fc25780ea7712eee2e2d6 ""
   "c:/texlive/2024/texmf.cnf" 1735936836 713 614551405fc44b98efbf516466e3c909 ""
-  "task1.aux" 1736444900 703 06680cef082a4067518670a2d91edd78 "pdflatex"
-  "task1.tex" 1736444894 4309 a66724bbc2059c723d5145a9665f6e1e ""
-  "task1.toc" 1736444900 231 62bb09c7b2e7146ea3010aaccdf30cf5 "pdflatex"
+  "task1.aux" 1736447980 703 06680cef082a4067518670a2d91edd78 "pdflatex"
+  "task1.tex" 1736447974 4184 9d285dc881cd2a3d77d34e2919711fd2 ""
+  "task1.toc" 1736447980 231 62bb09c7b2e7146ea3010aaccdf30cf5 "pdflatex"
   (generated)
   "task1.aux"
   "task1.log"
