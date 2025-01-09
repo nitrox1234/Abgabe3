@@ -39,14 +39,14 @@ class DataSet(DataSetInterface):
                 return data
 
     def __and__(self, dataset):
-        result = DataSet()  # Instanziieren einer konkreten Klasse
+        result = DataSet() 
         for item in self.items:
             if item.name in dataset:
                  result += item
         return result
 
     def __or__(self, dataset):
-        result = DataSet(self.items)  # Instanziieren einer konkreten Klasse mit aktuellen Items
+        result = DataSet(self.items)  
         for item in dataset:
             result += item
         return result
@@ -59,9 +59,9 @@ class DataSet(DataSetInterface):
                 reverse=self.iterate_reversed
             )
         else:
-            items = list(self.items)  # Kopie der Liste erstellen
+            items = list(self.items)  
             if self.iterate_reversed:
-                items.reverse()  # Reihenfolge umkehren, wenn reverse=True
+                items.reverse() 
 
         for item in items:
             yield item
